@@ -16,10 +16,10 @@ local KEYS = {
 }
 
 local GAME_LOADERS = {
-    [994732206]  = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau?token=GHSAT0AAAAAAEOMUPMFHMP62Z26IQT44DJQ2XIXH5A"))(),              -- Blox Fruits Universe
-    [2753915549] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau?token=GHSAT0AAAAAAEOMUPMFHMP62Z26IQT44DJQ2XIXH5A"))(),              -- Blox Fruits Sea 1
-    [4442272183] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau?token=GHSAT0AAAAAAEOMUPMFHMP62Z26IQT44DJQ2XIXH5A"))(),              -- Blox Fruits Sea 2
-    [7449423635] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau?token=GHSAT0AAAAAAEOMUPMFHMP62Z26IQT44DJQ2XIXH5A"))(),              -- Blox Fruits Sea 3
+    [994732206]  = loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau"))(),              -- Blox Fruits Universe
+    [2753915549] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau"))(),              -- Blox Fruits Sea 1
+    [4442272183] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau"))(),              -- Blox Fruits Sea 2
+    [7449423635] = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Not4rat/ZynHub/refs/heads/main/Blox-Fruit.luau"))(),              -- Blox Fruits Sea 3
     universal    = Print("This aint Supported"),              -- fallback
 }
 
